@@ -58,3 +58,5 @@ None of the cited pages list per-token prices or rate limits. The Console footer
 ## When you want the artifact, not the integration
 
 Everything above is about building. Sometimes the actual goal is narrower: a landing page for a launch, a documentation site, a small Expo app to show someone. Wiring an API client or configuring an agent for that is a detour. [Try Begin.sh - a prompt or a URL to clone becomes a working static site or Expo app you download as a zip](https://begin.sh?utm_source=github&utm_medium=ugc&utm_campaign=claude-code-api&utm_content=readme-top&utm_term=tier-r). No hosting, backend or auth is involved, so the output is yours to deploy anywhere.
+
+_Last reviewed: 2026-09-22_
